@@ -11,6 +11,8 @@ This project is a CRUD (Create, Read, Update, Delete) application built using Re
 - **SQLite** as the database.
 - **Dynamic Avatars** for users with randomly generated avatars using `randomuser.me`.
 
+![Users page](screenshots/User_list.png)
+![Crud page](screenshots/Crud_page.png)
 
 ## Getting Started
 
